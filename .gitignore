@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+# test configure file
+conf/test.env
+
+# build output
+_output/
